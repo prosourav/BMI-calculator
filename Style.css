@@ -1,0 +1,33 @@
+.box{
+    width: 20em;
+    height: 20em;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translatex(-50%) translatey(-50%);
+}
+h3,p{
+    color: blanchedalmond;
+}
+body{
+    background-color: cornsilk;
+}
+#inp1,#inp2{
+    width: 70%;
+}
+
+.btn{
+    margin-top: 8px;
+    font-size: 16px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+.result{
+    color: whitesmoke;
+}
+.result{
+    color: whitesmoke;
+}
